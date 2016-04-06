@@ -1,0 +1,37 @@
+body {
+  background-color: lightgrey;
+}
+
+#farmer-pic {
+  background-color: white;
+}
+
+.farmer {
+  padding-left: 40px;
+  align: center;
+  width: 900px;
+}
+
+.qoute {
+  font-size: 20px;
+  padding-left: 300px;
+  padding-top: 30px;
+}
+
+.author {
+  padding-left: 400px;
+}
+.bullets {
+  
+  background-color:white;
+  border-radius:40px;
+  padding-left: 70px;
+ 
+}
+.qoute-caption{
+  padding-left:40px;
+}
+#farmer-pic{
+  
+  border-radius:40px;
+}
